@@ -1,0 +1,11 @@
+id,neighborhood,area,price,type_,house_size,bedrooms,bathrooms,description,contact
+0,Westwood,"1,200 sqft","$500,000",Condo,"1,000 sqft",2,2,Beautiful condo in the heart of Westwood with stunning views.,John Smith - 555-555-5555
+1,Brentwood,"2,500 sqft","$1,200,000",House,"2,000 sqft",4,3,Spacious and modern house in the desirable Brentwood neighborhood.,Jane Doe - 555-555-5555
+2,Santa Monica,"1,800 sqft","$800,000",Apartment,"1,500 sqft",3,2,"Charming apartment in the heart of Santa Monica, just steps away from the beach.",Bob Johnson - 555-555-5555
+3,Venice,"1,500 sqft","$700,000",Condo,"1,200 sqft",2,2,Modern and stylish condo in the trendy Venice neighborhood.,Samantha Brown - 555-555-5555
+4,Culver City,"2,000 sqft","$900,000",House,"1,800 sqft",3,2,Cozy and inviting house in the quiet Culver City neighborhood.,Mike Williams - 555-555-5555
+5,Marina del Rey,"1,700 sqft","$750,000",Apartment,"1,400 sqft",2,2,Luxurious apartment with stunning views of the marina in Marina del Rey.,Emily Jones - 555-555-5555
+6,Playa Vista,"2,200 sqft","$1,100,000",House,"2,000 sqft",4,3,Modern and spacious house in the up-and-coming Playa Vista neighborhood.,David Lee - 555-555-5555
+7,Pacific Palisades,"3,000 sqft","$1,500,000",House,"2,500 sqft",5,4,Stunning and luxurious house in the prestigious Pacific Palisades neighborhood.,Sarah Miller - 555-555-5555
+8,Malibu,"5,000 sqft","$3,000,000",House,"4,500 sqft",6,5,Spectacular oceanfront house in the exclusive Malibu neighborhood.,Mark Thompson - 555-555-5555
+9,Beverly Hills,"4,000 sqft","$2,500,000",House,"3,500 sqft",4,4,Elegant and luxurious house in the prestigious Beverly Hills neighborhood.,Jennifer Smith - 555-555-5555
